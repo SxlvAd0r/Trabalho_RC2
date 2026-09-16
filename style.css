@@ -1,0 +1,18 @@
+h1 {
+    color: blueviolet;
+}
+
+.Texto-Random{
+    text-align: justify;
+    color: bisque;
+    padding-left: 2rem;
+}
+
+#Teste{
+    text-decoration: underline;
+    opacity: 20%;
+}
+
+body{
+    text-align: center;
+}
